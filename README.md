@@ -1,1 +1,1 @@
-# Algoritma-Soru1
+# Soru
